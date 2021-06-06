@@ -1,0 +1,35 @@
+.container{
+    height: 80vh;
+    margin: auto;
+    background-color: #B91450;
+}
+h1{
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+}
+.form-container{
+    width: 80%;
+    height: 25vh;
+    margin: auto;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.input-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2%;
+}
+label{
+    color: #B91450;
+    font-weight: bold;
+}
+input[type="button" i]{
+    background-color: #ccc;
+    color: #B91450;
+    font-weight: bold;
+    border-radius: 5px;
+}
+span{
+    font-weight: bold;
+}
